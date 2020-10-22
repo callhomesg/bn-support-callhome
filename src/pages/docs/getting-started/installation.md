@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Registion
 weight: 1
 template: docs
 ---
