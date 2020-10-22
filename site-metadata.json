@@ -68,7 +68,7 @@
                     {
                         "type": "action",
                         "label": "English 🇺🇸",
-                        "url": "/showcase",
+                        "url": "https://en-support.callhome.sg",
                         "style": "link"
                     }
                 ]
