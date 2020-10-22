@@ -8,7 +8,7 @@ sections:
     content: কল হোম ব্যবহার করার সময় আপনার প্রশ্নের সমর্থন এবং উত্তর পান।
     actions:
       - type: action
-        label: Get Started
+        label: এবার শুরু করা যাক
         url: /docs
         style: primary
   - type: section_grid
