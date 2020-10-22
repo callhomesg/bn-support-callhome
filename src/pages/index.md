@@ -33,7 +33,7 @@ sections:
         actions:
           - type: action
             label: Read more
-            url: /blog
+            url: /translations
             style: link
         title_url: /translations
       - type: grid_item
