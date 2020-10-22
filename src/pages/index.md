@@ -35,6 +35,7 @@ sections:
             label: Read more
             url: /blog
             style: link
+        title_url: /translations
       - type: grid_item
         title: Style Guides
         content: >-
