@@ -54,7 +54,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Translations",
+                "label": "অনুবাদ",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
