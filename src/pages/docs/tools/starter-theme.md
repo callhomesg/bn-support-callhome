@@ -1,5 +1,5 @@
 ---
-title: Starter Theme
+title: No connection
 weight: 1
 template: docs
 ---
