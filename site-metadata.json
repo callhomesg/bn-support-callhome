@@ -62,7 +62,7 @@
                     {
                         "type": "action",
                         "label": "Bengali 🇧🇩",
-                        "url": "/overview",
+                        "url": "/",
                         "style": "link"
                     },
                     {
