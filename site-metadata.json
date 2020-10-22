@@ -34,7 +34,7 @@
     },
     "header": {
         "type": "header",
-        "title": "Libris",
+        "title": "Call Home",
         "logo_img": "/images/header-logo.png",
         "has_nav": true,
         "nav_links": [
