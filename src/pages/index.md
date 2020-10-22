@@ -44,6 +44,15 @@ sections:
             label: Contact now
             url: 'https://callhome.sg/contact'
             style: link
+  - type: section_cta
+    title: Still confused?
+    section_id: cta
+    subtitle: Contact us directly if you can't find any answers here
+    actions:
+      - type: action
+        label: Get Started
+        url: 'https://callhome.sg/contact'
+        style: primary
   - type: section_content
     title: A Section With An Image
     section_id: text-img
@@ -90,15 +99,6 @@ sections:
             label: Learn More
             url: /showcase
             style: link
-  - type: section_cta
-    title: Still confused?
-    section_id: cta
-    subtitle: Contact us directly if you can't find any answers here
-    actions:
-      - type: action
-        label: Get Started
-        url: 'https://callhome.sg/contact'
-        style: primary
   - type: section_content
     title: A Section Without Image
     section_id: text-no-img
