@@ -47,7 +47,7 @@
             },
             {
                 "type": "action_menu",
-                "label": "Support",
+                "label": "সমর্থন",
                 "url": "/docs",
                 "style": "link",
                 "has_subnav": false
