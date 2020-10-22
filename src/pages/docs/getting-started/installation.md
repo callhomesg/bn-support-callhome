@@ -1,5 +1,5 @@
 ---
-title: Registion
+title: Registration
 weight: 1
 template: docs
 ---
