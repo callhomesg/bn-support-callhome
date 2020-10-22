@@ -97,7 +97,7 @@ sections:
     actions:
       - type: action
         label: Get Started
-        url: /docs/getting-started/installation
+        url: 'https://callhome.sg/contact'
         style: primary
   - type: section_content
     title: A Section Without Image
