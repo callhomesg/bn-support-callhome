@@ -1,5 +1,5 @@
 ---
-title: Plug-ins
+title: Error connection
 weight: 2
 template: docs
 ---
