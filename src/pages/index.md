@@ -5,9 +5,7 @@ sections:
     title: ' সমর্থন'
     section_id: hero
     image: /images/support-bkgrd.png
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: কল হোম ব্যবহার করার সময় আপনার প্রশ্নের সমর্থন এবং উত্তর পান।
     actions:
       - type: action
         label: Get Started
