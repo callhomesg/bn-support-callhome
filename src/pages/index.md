@@ -42,7 +42,7 @@ sections:
         actions:
           - type: action
             label: Contact now
-            url: /style-guide
+            url: 'https://callhome.sg/contact'
             style: link
   - type: section_content
     title: A Section With An Image
