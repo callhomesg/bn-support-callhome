@@ -1,5 +1,5 @@
 ---
-title: Typography
+title: Adding Contacts
 weight: 1
 template: docs
 ---
