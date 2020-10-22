@@ -26,7 +26,7 @@ sections:
             url: /docs
             style: link
       - type: grid_item
-        title: Blog
+        title: Translations
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
