@@ -69,7 +69,8 @@
                         "type": "action",
                         "label": "English 🇺🇸",
                         "url": "https://en-support.callhome.sg",
-                        "style": "link"
+                        "style": "link",
+                        "new_window": true
                     }
                 ]
             },
