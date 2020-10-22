@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: section_hero
-    title: Hero Section
+    title: ' সমর্থন'
     section_id: hero
     image: /images/support-bkgrd.png
     content: >-
